@@ -8,7 +8,7 @@ A curated collection of security labs, projects, and hands-on work completed acr
 ## 🟦 Network Engineering Labs
 VLANs, DHCP, Inter-VLAN Routing, Subnetting, Packet Tracer builds
 
-➡ **[View UMGC Projects](https://github.com/Pelumi-Johnson/Cisco-Packet-Tracer-Networking-Labs/tree/main?tab=readme-ov-file)**
+➡ **[View Network Projects](https://github.com/Pelumi-Johnson/Cisco-Packet-Tracer-Networking-Labs/tree/main?tab=readme-ov-file)**
 
 ---
 
